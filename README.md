@@ -36,13 +36,9 @@
 
 ## Overview
 
-_DesktopView_
+_DesktopPhoneView_
 
-![screenshot desktop](./img/desktopscreen.png?raw=true)
-
-_MobileView_
-
-![screenshot mobile](./img/phonescreen.png?raw=true)
+![screenshot desktop](./img/screenshot.png?raw=true)
 
 
 Introducation, a story about the project.
